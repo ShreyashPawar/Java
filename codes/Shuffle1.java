@@ -18,3 +18,9 @@ public class Shuffle1 {
     }
 }
 }
+
+
+
+// Output is ->
+    // %java Shuffle1 
+    // a-b c-d

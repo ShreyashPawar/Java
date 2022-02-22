@@ -22,3 +22,10 @@ public class PoolPuzzleOne {
         }
     }
 }
+
+
+// Output is ->
+    // %java PoolPuzzleOne
+    // a noise
+    // annoys
+    // an oyster
